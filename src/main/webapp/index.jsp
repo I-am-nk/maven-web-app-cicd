@@ -4,7 +4,6 @@
 
 <a href="https://github.com/I-am-nk">Click Here To See my github</a>
   
-  <h2> Call Us :Happy learning  </h2> 
   
   <h3> Learn daily grow daily </h3>
 
