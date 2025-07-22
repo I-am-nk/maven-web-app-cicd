@@ -183,7 +183,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git 'https://github.com/ashokitschool/maven-web-app.git'
+                git 'https://github.com/I-am-nk/maven-web-app-cicd.git'
             }
         }
         stage('Maven Build') {
